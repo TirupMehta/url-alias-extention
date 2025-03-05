@@ -27,7 +27,7 @@
 
 ## Developer
 
-Developed by (Tirup Mehta(https://github.com/TirupMehta)). Crafted for those who value speed and simplicity in their daily workflow.
+Developed by [Tirup Mehta](https://github.com/[TirupMehta]). Crafted for those who value speed and simplicity in their daily workflow.
 
 ## Contributing
 
